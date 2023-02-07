@@ -1,3 +1,3 @@
-# 900105y SUVK Arvostelu Näyte
+# 900105y SUVK Arvostelunäyte
 
 ...
